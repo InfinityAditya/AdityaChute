@@ -1,7 +1,5 @@
 <!--- Enhanced Banner for YUGANT GOTMARE --->
-<div align="center">
-  <img src=""/>
-</div>
+
 
 <div align="center">
   
